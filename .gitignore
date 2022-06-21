@@ -6,3 +6,6 @@ node_modules/
 
 # Don't commit logs
 *.log
+
+# Only use yarn.lock
+package-lock.json
